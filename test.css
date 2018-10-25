@@ -1,0 +1,147 @@
+li, h3, ul {
+  display: inline-block;
+}
+ h3{
+   padding-left: 10px;
+ }
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: #aaa;
+}
+
+.nav{
+  position: relative;
+  float: right;
+  padding-right: 10px;
+}
+
+.nav li{
+  padding-left: 50px;
+}
+
+.logo{
+  display: inline;
+
+}
+
+header{
+  border-bottom: solid #ddd 1px;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main{
+  /* height: 1380px;
+  background-color: #f7f7f7; */
+
+}
+
+footer{
+  border-top: solid #ddd 1px;
+}
+
+.foot{
+  display: block;
+  text-align: center;
+  letter-spacing: 30px;
+
+}
+.foot li{
+  font-size: 50px;
+}
+
+.copyright{
+  text-align: center;
+}
+
+.about{
+  text-align: center;
+  background-color: white;
+}
+#about {
+text-align: center;
+margin: 0;
+font-size: 20px;
+padding-top: 20px;
+}
+
+#aboutUs{
+  font-size: 12px;
+}
+
+.button{
+  display: inline-block;
+  padding: 30px;
+  color: white;
+
+}
+
+.button:hover{
+
+}
+
+.buttons{
+  text-align: center;
+  margin: 0;
+  font-size: 50px;
+  padding-top: 20px;
+
+}
+
+.work{
+display: block;
+text-align: center;
+padding-top: 10px;
+height: 290px;
+background-color: #BC5225
+}
+
+label, input, textarea, button {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+input, button{
+  width: 30%;
+}
+
+label{
+  margin: 10px;
+}
+
+.film{
+  background-image: url("brick.jpg");
+  background-size: cover;
+  height: 400px;
+
+}
+
+.whiteLogo{
+  display: block;
+  height: 400px;
+  margin:0 auto;
+}
+
+.profilePics{
+  display: inline;
+}
+
+#profile {
+  border-radius: 360px;
+  height:auto;
+  width:150px;
+}
+
+.profile {
+  display: inline-block;
+  margin-right: 50px;
+}

@@ -1,0 +1,96 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+nav{
+  color:white;
+  list-style: none;
+  margin-left: 95px;
+
+}
+
+.bar{
+  background: navy;
+  padding: 10px;
+  opacity: 0.6;
+}
+
+li{
+  display: inline;
+}
+
+
+/* .button1{
+  background: royalblue;
+  padding: 50px;
+  color: white;
+  text-align: center;
+  margin: 100px 106px 82px;
+  position: fixed;
+} */
+
+/* .button2{
+  background: royalblue;
+  padding: 50px;
+  color: white;
+  text-align: center;
+  position: fixed;
+  margin-top: 100px;
+  margin-left: 610px;
+  padding-right: 70px;
+  padding-left: 70px;
+} */
+
+
+.mid{
+  margin: 0;
+  padding: 0;
+  background: black;
+  height: 590px;
+}
+
+.bottom{
+  background: royalblue;
+  margin: 0;
+  padding: 0;
+  opacity: 0.6;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  display: inline;
+  padding: 11px;
+}
+
+.bar a:hover{
+  border: 1px solid white;
+  opacity: 1;
+}
+
+.mid a {
+  background: royalblue;
+  color: white;
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  margin-left: 23%;
+  margin-top: 16%;
+  box-sizing: border-box;
+  float:left;
+  text-align: center;
+  opacity: 0.6;
+  text-transform: uppercase;
+  border-radius: 10%
+}
+
+.mid a:hover{
+  opacity: 1;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
